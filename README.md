@@ -10,11 +10,9 @@
 
 ## Download
 
-**[Download the latest Android APK](https://github.com/YOUR-GITHUB-USERNAME/AttendanceTracker/releases/latest/download/AttendanceTracker.apk)**
+**[Download the latest Android APK](https://github.com/Amer-Hussain/AttendanceTracker/releases/latest/download/AttendanceTracker.apk)**
 
-Or open the [Releases page](https://github.com/YOUR-GITHUB-USERNAME/AttendanceTracker/releases/latest) and download `AttendanceTracker.apk` from the latest release assets.
-
-> Replace `YOUR-GITHUB-USERNAME` in the two links above with your GitHub username before publishing this README.
+Or open the [Releases page](https://github.com/Amer-Hussain/AttendanceTracker/releases/latest) and download `AttendanceTracker.apk` from the latest release assets.
 
 ## Features
 
